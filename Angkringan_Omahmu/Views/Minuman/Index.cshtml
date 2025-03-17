@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Minuman";
+}
+
+
+<div class="container mt-4">
+    <div class="row">
+        @foreach (var mnm in Model)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                <img src=@mnm.PhotoLocation asp-append-version="true" alt="Produk 1" class="ing-fluid" /> <div class="card-body">
+                    <h5 class="card-title">@mnm.Nama</h5>
+                    <p class="card-text">@mnm.Harga</p>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+</div>
+

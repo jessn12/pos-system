@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Angkringan_Omahmu.props" />
+</Project>

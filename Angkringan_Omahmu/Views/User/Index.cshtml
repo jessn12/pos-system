@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "User";
+}
+<h2>Tabel User</h2>
+<p>Ini adalah halaman User.</p>
+<h2>Daftar User</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Nama</th>
+            <th>Role</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var us in Model)
+        {
+            <tr>
+                <td>@us.Nama</td>
+                <td>@us.Role</td>
+            </tr>
+        }
+    </tbody>
+</table>
