@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vQ9UHhsLf0Fs/Bd4v10uCgnMTlAk0HCgfAr6RnpvJd0=",
+  "Hash": "+jp1yVY/o420m+/7ApjsptQKDUtWaq1KQFK9G08e+CY=",
   "Source": "Angkringan_Omahmu",
   "BasePath": "_content/Angkringan_Omahmu",
   "Mode": "Default",
@@ -59,6 +59,69 @@
       "OriginalItemSpec": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Angkringan_Omahmu.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\login.css",
+      "SourceId": "Angkringan_Omahmu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\",
+      "BasePath": "_content/Angkringan_Omahmu",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "09gulked7m",
+      "Integrity": "xNL/yp0gvH1RD89VAI7mJxIaBoc9QAdaW/nZ/MhoUq0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\ly.css",
+      "SourceId": "Angkringan_Omahmu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\",
+      "BasePath": "_content/Angkringan_Omahmu",
+      "RelativePath": "css/ly#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8nz03w6k92",
+      "Integrity": "jIh1s7Gk/97K3QNO/u5z4PEggx/sbqEOEa//L8rjHOc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ly.css"
+    },
+    {
+      "Identity": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\makanan.css",
+      "SourceId": "Angkringan_Omahmu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\",
+      "BasePath": "_content/Angkringan_Omahmu",
+      "RelativePath": "css/makanan#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t2gg51nki0",
+      "Integrity": "Ze6vCcPR9O84MNvpJh2OLzNq/td52dBzgh6cgYjVr80=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\makanan.css"
+    },
+    {
       "Identity": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\navbar.css",
       "SourceId": "Angkringan_Omahmu",
       "SourceType": "Discovered",
@@ -115,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lpkpr8d0wh",
-      "Integrity": "GSAT4SwSbYxX8oNYZzYJe7IY3jyJxIdnQi+uNc5xCAg=",
+      "Fingerprint": "d2bqzqivkc",
+      "Integrity": "hUVF0g8V6YB9Y30RuzHEKtMmB2wi+AaW/uYwPcrpnXE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -269,6 +332,48 @@
       "OriginalItemSpec": "wwwroot\\images\\teh.jpg"
     },
     {
+      "Identity": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+      "SourceId": "Angkringan_Omahmu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\",
+      "BasePath": "_content/Angkringan_Omahmu",
+      "RelativePath": "js/inventory#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "by7w8s2tsp",
+      "Integrity": "Q0jpUWOdZ2N13ie9rqoQYpFZBHzD9fHJEd5mWLeyido=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\inventory.js"
+    },
+    {
+      "Identity": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\makanan.js",
+      "SourceId": "Angkringan_Omahmu",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\",
+      "BasePath": "_content/Angkringan_Omahmu",
+      "RelativePath": "js/makanan#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k0ib86lvy1",
+      "Integrity": "9B+Rd5j2PQhMWqwj0074LkIxpy+YAOWKj2NOaLJVavQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\makanan.js"
+    },
+    {
       "Identity": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
       "SourceId": "Angkringan_Omahmu",
       "SourceType": "Discovered",
@@ -283,8 +388,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6pgcg7rt9l",
-      "Integrity": "dqRxPJlpySDDlTgKU6JBGQt4l2Qq7sMXa2Y33lUnroE=",
+      "Fingerprint": "bu3qf19ftj",
+      "Integrity": "8/jjP+a1QL8QIWwrm/8TWfIUk2t4tkfAQwupE0gbjSs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\navbar.js"
@@ -1695,6 +1800,252 @@
       ]
     },
     {
+      "Route": "css/login.09gulked7m.css",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNL/yp0gvH1RD89VAI7mJxIaBoc9QAdaW/nZ/MhoUq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 13:44:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "09gulked7m"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNL/yp0gvH1RD89VAI7mJxIaBoc9QAdaW/nZ/MhoUq0="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNL/yp0gvH1RD89VAI7mJxIaBoc9QAdaW/nZ/MhoUq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 13:44:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNL/yp0gvH1RD89VAI7mJxIaBoc9QAdaW/nZ/MhoUq0="
+        }
+      ]
+    },
+    {
+      "Route": "css/ly.8nz03w6k92.css",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\ly.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jIh1s7Gk/97K3QNO/u5z4PEggx/sbqEOEa//L8rjHOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:15:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8nz03w6k92"
+        },
+        {
+          "Name": "label",
+          "Value": "css/ly.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jIh1s7Gk/97K3QNO/u5z4PEggx/sbqEOEa//L8rjHOc="
+        }
+      ]
+    },
+    {
+      "Route": "css/ly.css",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\ly.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jIh1s7Gk/97K3QNO/u5z4PEggx/sbqEOEa//L8rjHOc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:15:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jIh1s7Gk/97K3QNO/u5z4PEggx/sbqEOEa//L8rjHOc="
+        }
+      ]
+    },
+    {
+      "Route": "css/makanan.css",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\makanan.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ze6vCcPR9O84MNvpJh2OLzNq/td52dBzgh6cgYjVr80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 15:30:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ze6vCcPR9O84MNvpJh2OLzNq/td52dBzgh6cgYjVr80="
+        }
+      ]
+    },
+    {
+      "Route": "css/makanan.t2gg51nki0.css",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\makanan.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ze6vCcPR9O84MNvpJh2OLzNq/td52dBzgh6cgYjVr80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 15:30:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t2gg51nki0"
+        },
+        {
+          "Name": "label",
+          "Value": "css/makanan.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ze6vCcPR9O84MNvpJh2OLzNq/td52dBzgh6cgYjVr80="
+        }
+      ]
+    },
+    {
       "Route": "css/navbar.0hfx4nsfqv.css",
       "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\navbar.css",
       "Selectors": [],
@@ -1717,7 +2068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 14:21:34 GMT"
+          "Value": "Mon, 24 Mar 2025 14:13:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1762,7 +2113,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 14:21:34 GMT"
+          "Value": "Mon, 24 Mar 2025 14:13:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1869,7 +2220,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1721"
+          "Value": "1725"
         },
         {
           "Name": "Content-Type",
@@ -1877,11 +2228,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GSAT4SwSbYxX8oNYZzYJe7IY3jyJxIdnQi+uNc5xCAg=\""
+          "Value": "\"hUVF0g8V6YB9Y30RuzHEKtMmB2wi+AaW/uYwPcrpnXE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 14:16:08 GMT"
+          "Value": "Mon, 24 Mar 2025 14:24:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1891,12 +2242,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GSAT4SwSbYxX8oNYZzYJe7IY3jyJxIdnQi+uNc5xCAg="
+          "Value": "sha256-hUVF0g8V6YB9Y30RuzHEKtMmB2wi+AaW/uYwPcrpnXE="
         }
       ]
     },
     {
-      "Route": "css/site.lpkpr8d0wh.css",
+      "Route": "css/site.d2bqzqivkc.css",
       "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1906,7 +2257,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1721"
+          "Value": "1725"
         },
         {
           "Name": "Content-Type",
@@ -1914,11 +2265,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GSAT4SwSbYxX8oNYZzYJe7IY3jyJxIdnQi+uNc5xCAg=\""
+          "Value": "\"hUVF0g8V6YB9Y30RuzHEKtMmB2wi+AaW/uYwPcrpnXE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 14:16:08 GMT"
+          "Value": "Mon, 24 Mar 2025 14:24:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1928,7 +2279,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "lpkpr8d0wh"
+          "Value": "d2bqzqivkc"
         },
         {
           "Name": "label",
@@ -1936,7 +2287,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GSAT4SwSbYxX8oNYZzYJe7IY3jyJxIdnQi+uNc5xCAg="
+          "Value": "sha256-hUVF0g8V6YB9Y30RuzHEKtMmB2wi+AaW/uYwPcrpnXE="
         }
       ]
     },
@@ -2515,8 +2866,8 @@
       ]
     },
     {
-      "Route": "js/navbar.6pgcg7rt9l.js",
-      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
+      "Route": "js/inventory.by7w8s2tsp.js",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2525,7 +2876,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "6782"
         },
         {
           "Name": "Content-Type",
@@ -2533,11 +2884,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dqRxPJlpySDDlTgKU6JBGQt4l2Qq7sMXa2Y33lUnroE=\""
+          "Value": "\"Q0jpUWOdZ2N13ie9rqoQYpFZBHzD9fHJEd5mWLeyido=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 14:07:37 GMT"
+          "Value": "Mon, 24 Mar 2025 13:44:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2547,7 +2898,171 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6pgcg7rt9l"
+          "Value": "by7w8s2tsp"
+        },
+        {
+          "Name": "label",
+          "Value": "js/inventory.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0jpUWOdZ2N13ie9rqoQYpFZBHzD9fHJEd5mWLeyido="
+        }
+      ]
+    },
+    {
+      "Route": "js/inventory.js",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q0jpUWOdZ2N13ie9rqoQYpFZBHzD9fHJEd5mWLeyido=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 13:44:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q0jpUWOdZ2N13ie9rqoQYpFZBHzD9fHJEd5mWLeyido="
+        }
+      ]
+    },
+    {
+      "Route": "js/makanan.js",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\makanan.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9B+Rd5j2PQhMWqwj0074LkIxpy+YAOWKj2NOaLJVavQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 15:30:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9B+Rd5j2PQhMWqwj0074LkIxpy+YAOWKj2NOaLJVavQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/makanan.k0ib86lvy1.js",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\makanan.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7691"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9B+Rd5j2PQhMWqwj0074LkIxpy+YAOWKj2NOaLJVavQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 15:30:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k0ib86lvy1"
+        },
+        {
+          "Name": "label",
+          "Value": "js/makanan.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9B+Rd5j2PQhMWqwj0074LkIxpy+YAOWKj2NOaLJVavQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/navbar.bu3qf19ftj.js",
+      "AssetFile": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "837"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8/jjP+a1QL8QIWwrm/8TWfIUk2t4tkfAQwupE0gbjSs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:11:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bu3qf19ftj"
         },
         {
           "Name": "label",
@@ -2555,7 +3070,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dqRxPJlpySDDlTgKU6JBGQt4l2Qq7sMXa2Y33lUnroE="
+          "Value": "sha256-8/jjP+a1QL8QIWwrm/8TWfIUk2t4tkfAQwupE0gbjSs="
         }
       ]
     },
@@ -2570,7 +3085,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "590"
+          "Value": "837"
         },
         {
           "Name": "Content-Type",
@@ -2578,11 +3093,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dqRxPJlpySDDlTgKU6JBGQt4l2Qq7sMXa2Y33lUnroE=\""
+          "Value": "\"8/jjP+a1QL8QIWwrm/8TWfIUk2t4tkfAQwupE0gbjSs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 14:07:37 GMT"
+          "Value": "Mon, 24 Mar 2025 14:11:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2592,7 +3107,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dqRxPJlpySDDlTgKU6JBGQt4l2Qq7sMXa2Y33lUnroE="
+          "Value": "sha256-8/jjP+a1QL8QIWwrm/8TWfIUk2t4tkfAQwupE0gbjSs="
         }
       ]
     },

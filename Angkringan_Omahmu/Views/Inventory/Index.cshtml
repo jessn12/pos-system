@@ -1,0 +1,326 @@
+﻿@model List<Angkringan_Omahmu.Models.Inventory>
+@{
+    ViewData["Title"] = "Inventory";
+}
+
+<!-- Main Container -->
+<div class="container-fluid py-4">
+    <!-- Dashboard Header -->
+    <div class="row mb-4">
+        <div class="col-12">
+            <div class="card shadow border-0 rounded-3 overflow-hidden">
+                <!-- Header Section -->
+                <div class="card-header bg-gradient-primary text-white py-3">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <h4 class="m-0 font-weight-bold text-black">
+                                <i class="fa fa-clipboard-list me-2 "></i>Data Inventory
+                            </h4>
+                            <p class="text-black-50 mb-0 mt-1">Manajemen menu dan barang Angkringan Omahmu</p>
+                        </div>
+                        <div class="col-md-6 text-md-end mt-3 mt-md-0">
+                            <button type="button" class="btn btn-success btn-lg shadow-sm" data-bs-toggle="modal" data-bs-target="#addItemModal">
+                                <i class="fa fa-plus-circle me-2"></i>Tambah Menu/Barang
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Search & Filter Section -->
+                <div class="bg-light border-bottom p-3">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="input-group">
+                                <span class="input-group-text bg-white border-end-0">
+                                    <i class="fa fa-search text-muted"></i>
+                                </span>
+                                <input type="text" id="searchInventory" class="form-control border-start-0" placeholder="Cari menu atau barang...">
+                            </div>
+                        </div>
+                        @* <div class="col-md-6 text-md-end mt-3 mt-md-0"> *@
+                        @*     <div class="btn-group"> *@
+                        @*         <button type="button" class="btn btn-outline-secondary" id="sortName"> *@
+                        @*             <i class="fa fa-sort-alpha-down me-1"></i>Nama *@
+                        @*         </button> *@
+                        @*         <button type="button" class="btn btn-outline-secondary" id="sortPrice"> *@
+                        @*             <i class="fa fa-sort-numeric-down me-1"></i>Harga *@
+                        @*         </button> *@
+                        @*     </div> *@
+                        @* </div> *@
+                    </div>
+                </div>
+
+                <!-- Table Section -->
+                <div class="card-body p-0">
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle mb-0" id="inventoryTable">
+                            <thead class="bg-light">
+                                <tr>
+                                    <th class="py-3 ps-4">No</th>
+                                    <th class="py-3">Menu/Barang</th>
+                                    <th class="py-3">Harga</th>
+                                    <th class="py-3">Deskripsi</th>
+                                    <th class="py-3">Gambar</th>
+                                    <th class="py-3 text-center">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr class="item-row">
+                                        <td class="ps-4">@item.No</td>
+                                        <td class="fw-bold">@item.Menu_Barang</td>
+                                        <td class="text-success fw-bold">Rp @item.Harga.ToString("N0")</td>
+                                        <td>
+                                            @if (string.IsNullOrEmpty(item.Deskripsi))
+                                            {
+                                                <span class="text-muted fst-italic">Tidak ada deskripsi</span>
+                                            }
+                                            else
+                                            {
+                                                @item.Deskripsi
+                                            }
+                                        </td>
+                                        <td>
+                                            <img src="@item.PhotoLocation" alt="@item.Menu_Barang"
+                                                 class="img-thumbnail shadow-sm rounded"
+                                                 style="width: 80px; height: 80px; object-fit: cover;"
+                                                 data-bs-toggle="tooltip" title="@item.Menu_Barang" />
+                                        </td>
+                                        <td class="text-center">
+                                            <div class="btn-group">
+                                                <button class="btn btn-outline-warning btn-sm edit-btn me-2" data-bs-toggle="modal" data-bs-target="#editItemModal"
+                                                        data-id="@item.Id" data-name="@item.Menu_Barang" data-price="@item.Harga"
+                                                        data-description="@item.Deskripsi" data-image="@item.PhotoLocation">
+                                                    <i class="bi bi-pencil-square"></i>
+                                                </button>
+                                                <button class="btn btn-outline-danger btn-sm delete-btn" onclick="confirmDelete(@item.Id)">
+                                                    <i class="bi bi-trash"></i>
+                                                </button>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Card Footer -->
+                <div class="card-footer bg-white p-3">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <p class="text-muted mb-md-0">Menampilkan <span class="fw-bold">@Model.Count</span> item</p>
+                        </div>
+                        <div class="col-md-6">
+                            <nav aria-label="Page navigation">
+                                <ul class="pagination justify-content-md-end mb-0">
+                                    <li class="page-item disabled">
+                                        <a class="page-link" href="#" tabindex="-1">Previous</a>
+                                    </li>
+                                    <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                                    <li class="page-item disabled">
+                                        <a class="page-link" href="#">Next</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Tambah Item -->
+<div class="modal fade" id="addItemModal" tabindex="-1" aria-labelledby="addItemModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content border-0 shadow">
+            <div class="modal-header bg-gradient-success text-white">
+                <h5 class="modal-title" id="addItemModalLabel">
+                    <i class="fa fa-plus-circle me-2"></i>Tambah Menu/Barang Baru
+                </h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-4">
+                <form id="addItemForm" method="post" action="@Url.Action("Add", "Inventory")" enctype="multipart/form-data" class="needs-validation" novalidate>
+                    <div class="row mb-4">
+                        <div class="col-md-6">
+                            <label for="name" class="form-label fw-bold">Nama Menu/Barang <span class="text-danger">*</span></label>
+                            <div class="input-group">
+                                <span class="input-group-text bg-white">
+                                    <i class="fa fa-utensils text-primary"></i>
+                                </span>
+                                <input type="text" class="form-control" id="name" name="Menu_Barang" placeholder="Masukkan nama menu/barang" required>
+                                <div class="invalid-feedback">
+                                    Nama menu/barang harus diisi.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="price" class="form-label fw-bold">Harga <span class="text-danger">*</span></label>
+                            <div class="input-group">
+                                <span class="input-group-text bg-white">Rp</span>
+                                <input type="number" class="form-control" id="price" name="Harga" placeholder="0" min="0" required>
+                                <div class="invalid-feedback">
+                                    Harga harus diisi dengan nilai minimal 0.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mb-4">
+                        <label for="description" class="form-label fw-bold">Deskripsi</label>
+                        <textarea class="form-control" id="description" name="Deskripsi" rows="3" placeholder="Deskripsi menu/barang"></textarea>
+                    </div>
+                    <div class="mb-4">
+                        <label for="imageFile" class="form-label fw-bold">Gambar Menu/Barang</label>
+                        <div class="input-group">
+                            <span class="input-group-text bg-white">
+                                <i class="fa fa-image text-primary"></i>
+                            </span>
+                            <input type="file" class="form-control" id="imageFile" name="ImageFile" accept="image/*">
+                        </div>
+                        <div class="form-text">
+                            <i class="fa fa-info-circle me-1 text-info"></i>Format yang diizinkan: JPG, JPEG, PNG. Max size: 2MB
+                        </div>
+                        <div class="mt-3" id="imagePreviewContainer" style="display: none;">
+                            <p class="mb-1">Preview:</p>
+                            <img id="imagePreview" src="#" alt="Preview" class="img-thumbnail" style="max-width: 200px; max-height: 200px;">
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-end mt-4">
+                        <button type="button" class="btn btn-light me-2" data-bs-dismiss="modal">
+                            <i class="fa fa-times me-1"></i>Batal
+                        </button>
+                        <button type="submit" class="btn btn-success px-4">
+                            <i class="fa fa-save me-1"></i>Simpan
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Edit Item -->
+<div class="modal fade" id="editItemModal" tabindex="-1" aria-labelledby="editItemModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content border-0 shadow">
+            <div class="modal-header bg-gradient-warning">
+                <h5 class="modal-title" id="editItemModalLabel">
+                    <i class="fa fa-edit me-2"></i>Edit Menu/Barang
+                </h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-4">
+                <form id="editItemForm" method="post" action="@Url.Action("Edit", "Inventory")" enctype="multipart/form-data" class="needs-validation" novalidate>
+                    <input type="hidden" id="editId" name="Id">
+                    <div class="row mb-4">
+                        <div class="col-md-6">
+                            <label for="editName" class="form-label fw-bold">Nama Menu/Barang <span class="text-danger">*</span></label>
+                            <div class="input-group">
+                                <span class="input-group-text bg-white">
+                                    <i class="fa fa-utensils text-primary"></i>
+                                </span>
+                                <input type="text" class="form-control" id="editName" name="Menu_Barang" required>
+                                <div class="invalid-feedback">
+                                    Nama menu/barang harus diisi.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="editPrice" class="form-label fw-bold">Harga <span class="text-danger">*</span></label>
+                            <div class="input-group">
+                                <span class="input-group-text bg-white">Rp</span>
+                                <input type="number" class="form-control" id="editPrice" name="Harga" min="0" required>
+                                <div class="invalid-feedback">
+                                    Harga harus diisi dengan nilai minimal 0.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mb-4">
+                        <label for="editDescription" class="form-label fw-bold">Deskripsi</label>
+                        <textarea class="form-control" id="editDescription" name="Deskripsi" rows="3"></textarea>
+                    </div>
+                    <div class="row mb-4">
+                        <div class="col-md-8">
+                            <label for="editImageFile" class="form-label fw-bold">Gambar Menu/Barang</label>
+                            <div class="input-group">
+                                <span class="input-group-text bg-white">
+                                    <i class="fa fa-image text-primary"></i>
+                                </span>
+                                <input type="file" class="form-control" id="editImageFile" name="ImageFile" accept="image/*">
+                            </div>
+                            <div class="form-text">
+                                <i class="fa fa-info-circle me-1 text-info"></i>Format yang diizinkan: JPG, JPEG, PNG. Max size: 2MB
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label fw-bold">Gambar Saat Ini</label>
+                            <div class="text-center p-2 border rounded bg-light">
+                                <img id="currentImage" src="" alt="Current Image" class="img-thumbnail" style="width: 120px; height: 120px; object-fit: cover;">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-end mt-4">
+                        <button type="button" class="btn btn-light me-2" data-bs-dismiss="modal">
+                            <i class="fa fa-times me-1"></i>Batal
+                        </button>
+                        <button type="submit" class="btn btn-warning px-4">
+                            <i class="fa fa-save me-1"></i>Update
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Konfirmasi Delete -->
+<div class="modal fade" id="deleteConfirmModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content border-0 shadow">
+            <div class="modal-header bg-gradient-danger text-white">
+                <h5 class="modal-title">
+                    <i class="fa fa-trash me-2"></i>Konfirmasi Hapus
+                </h5>
+                <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body p-4">
+                <div class="text-center mb-4">
+                    <i class="fa fa-exclamation-triangle text-warning fa-3x mb-3"></i>
+                    <h5>Apakah Anda yakin ingin menghapus item ini?</h5>
+                    <p class="text-muted">Tindakan ini tidak dapat dibatalkan.</p>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <button type="button" class="btn btn-light me-2" data-bs-dismiss="modal">
+                        <i class="fa fa-times me-1"></i>Batal
+                    </button>
+                    <form id="deleteForm" method="post" action="@Url.Action("Delete", "Inventory")">
+                        <input type="hidden" id="deleteItemId" name="id">
+                        <button type="submit" class="btn btn-danger px-4">
+                            <i class="fa fa-trash me-1"></i>Hapus
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Toast Notifications -->
+<div class="position-fixed bottom-0 end-0 p-3" style="z-index: 9999">
+    <div id="successToast" class="toast hide" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header bg-success text-white">
+            <i class="fa fa-check-circle me-2"></i>
+            <strong class="me-auto">Sukses!</strong>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            Operasi berhasil dilakukan.
+        </div>
+    </div>
+</div>
+
+<script src="~/js/inventory.js" asp-append-version="true"></script>

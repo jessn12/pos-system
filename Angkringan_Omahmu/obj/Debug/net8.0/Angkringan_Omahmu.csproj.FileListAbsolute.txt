@@ -32,3 +32,4 @@ C:\Users\Jesen Wijaya\source\repos\Angkringan_Omahmu\Angkringan_Omahmu\obj\Debug
 C:\Users\Jesen Wijaya\source\repos\Angkringan_Omahmu\Angkringan_Omahmu\obj\Debug\net8.0\Angkringan_Omahmu.pdb
 C:\Users\Jesen Wijaya\source\repos\Angkringan_Omahmu\Angkringan_Omahmu\obj\Debug\net8.0\Angkringan_Omahmu.genruntimeconfig.cache
 C:\Users\Jesen Wijaya\source\repos\Angkringan_Omahmu\Angkringan_Omahmu\obj\Debug\net8.0\ref\Angkringan_Omahmu.dll
+C:\Users\Jesen Wijaya\source\repos\Angkringan_Omahmu\Angkringan_Omahmu\obj\Debug\net8.0\Angkringan_Omahmu.sourcelink.json

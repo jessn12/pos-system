@@ -3,68 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\js\\makanan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\js\\makanan.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\models\\minuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\models\\minuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\models\\makanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\models\\makanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\makanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\makanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\template\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\template\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\template\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\template\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\js\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\js\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\js\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\js\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\makanan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\makanan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\makanan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\makanan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\minuman\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\minuman\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\template\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\template\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\models\\makanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\models\\makanan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\makanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\makanancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\ly.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\ly.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\js\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\js\\navbar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\template\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\template\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\js\\inventory.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\js\\inventory.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\js\\inventory.js||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\js\\inventory.js||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\minumancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\minumancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\css\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\css\\sidebar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\wwwroot\\js\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\wwwroot\\js\\sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\models\\minuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\models\\minuman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\minuman\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\minuman\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|c:\\users\\jesen wijaya\\source\\repos\\angkringan_omahmu\\angkringan_omahmu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99E64A14-D11B-442F-9817-C7BE52194DBF}|Angkringan_Omahmu\\Angkringan_Omahmu.csproj|solutionrelative:angkringan_omahmu\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -85,12 +137,181 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 167,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Login\\login.cshtml",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Login\\login.cshtml",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Login\\login.cshtml",
+              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Login\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:41:42.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "makanan.css",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\makanan.css",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\css\\makanan.css",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\makanan.css",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\css\\makanan.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-19T16:37:31.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Makanan\\Index.cshtml",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Makanan\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Makanan\\Index.cshtml",
+              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Makanan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T13:01:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T14:14:37.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:23:30.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MakananController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\MakananController.cs",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\MakananController.cs",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\MakananController.cs",
+              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\MakananController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:04:36.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:50:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:53:19.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Models\\Inventory.cs",
+              "RelativeToolTip": "Angkringan_Omahmu\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:54:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Makanan.cs",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Models\\Makanan.cs",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Models\\Makanan.cs",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Models\\Makanan.cs",
+              "RelativeToolTip": "Angkringan_Omahmu\\Models\\Makanan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:05:04.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "makanan.js",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\makanan.js",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\js\\makanan.js",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\makanan.js",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\js\\makanan.js",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAiwKsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T16:38:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Template\\Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Template\\Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Template\\Sidebar.cshtml",
+              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Template\\Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T05:48:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-14T13:33:09.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "navbar.css",
               "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\navbar.css",
               "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\css\\navbar.css",
@@ -98,11 +319,155 @@
               "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\css\\navbar.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-13T13:50:13.029Z"
+              "WhenOpened": "2025-03-24T14:10:55.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T04:01:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ly.css",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\ly.css",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\css\\ly.css",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\ly.css",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\css\\ly.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-24T14:14:39.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "navbar.js",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-13T13:42:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Template\\Navbar.cshtml",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Template\\Navbar.cshtml",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Template\\Navbar.cshtml",
+              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Template\\Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T13:08:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-24T13:42:41.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Angkringan_Omahmu\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:46:16.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Inventory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Inventory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Inventory\\Index.cshtml",
+              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Inventory\\Index.cshtml",
+              "ViewState": "AgIAACwBAAAAAAAAAAAAAEUBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T13:39:56.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "inventory.js",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T13:40:20.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "inventory.js",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-24T13:39:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MinumanController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\MinumanController.cs",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\MinumanController.cs",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\MinumanController.cs",
+              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\MinumanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:25:35.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:29:54.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "sidebar.css",
               "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\sidebar.css",
               "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\css\\sidebar.css",
@@ -114,67 +479,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "navbar.js",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
-              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-13T13:42:46.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "sidebar.js",
               "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\sidebar.js",
               "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\js\\sidebar.js",
               "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\sidebar.js",
               "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\js\\sidebar.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-13T07:05:10.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Template\\Navbar.cshtml",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Template\\Navbar.cshtml",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Template\\Navbar.cshtml",
-              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Template\\Navbar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T13:08:26.52Z"
+              "DocumentIndex": 26,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-19T16:34:28.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAkAAAAgAAA9CQsmwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T13:23:30.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Makanan.cs",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Models\\Makanan.cs",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Models\\Makanan.cs",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Models\\Makanan.cs",
-              "RelativeToolTip": "Angkringan_Omahmu\\Models\\Makanan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:05:04.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 28,
               "Title": "Minuman.cs",
               "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Models\\Minuman.cs",
               "RelativeDocumentMoniker": "Angkringan_Omahmu\\Models\\Minuman.cs",
@@ -186,80 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T12:29:54.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T14:14:37.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Template\\Sidebar.cshtml",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Template\\Sidebar.cshtml",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Template\\Sidebar.cshtml",
-              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Template\\Sidebar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-13T05:48:24.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MakananController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\MakananController.cs",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\MakananController.cs",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\MakananController.cs",
-              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\MakananController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:04:36.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Angkringan_Omahmu\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-14T13:33:09.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Makanan\\Index.cshtml",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Makanan\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Makanan\\Index.cshtml",
-              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Makanan\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T13:01:27.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Minuman\\Index.cshtml",
               "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Minuman\\Index.cshtml",
@@ -271,19 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MinumanController.cs",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\MinumanController.cs",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Controllers\\MinumanController.cs",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Controllers\\MinumanController.cs",
-              "RelativeToolTip": "Angkringan_Omahmu\\Controllers\\MinumanController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:25:35.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Models\\User.cs",
               "RelativeDocumentMoniker": "Angkringan_Omahmu\\Models\\User.cs",
@@ -295,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\User\\Index.cshtml",
@@ -304,18 +548,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-14T12:32:23.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Angkringan_Omahmu\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Angkringan_Omahmu\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T04:01:39.496Z"
             }
           ]
         }

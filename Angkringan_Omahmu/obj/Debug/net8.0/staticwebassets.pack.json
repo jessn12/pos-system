@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\Angkringan_Omahmu.75cwjzot2s.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\ly.css",
+      "PackagePath": "staticwebassets\\css\\ly.css"
+    },
+    {
+      "Id": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\makanan.css",
+      "PackagePath": "staticwebassets\\css\\makanan.css"
+    },
+    {
       "Id": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\css\\navbar.css",
       "PackagePath": "staticwebassets\\css\\navbar.css"
     },
@@ -43,6 +55,14 @@
     {
       "Id": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\images\\teh.jpg",
       "PackagePath": "staticwebassets\\images\\teh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\inventory.js",
+      "PackagePath": "staticwebassets\\js\\inventory.js"
+    },
+    {
+      "Id": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\makanan.js",
+      "PackagePath": "staticwebassets\\js\\makanan.js"
     },
     {
       "Id": "C:\\Users\\Jesen Wijaya\\source\\repos\\Angkringan_Omahmu\\Angkringan_Omahmu\\wwwroot\\js\\navbar.js",
